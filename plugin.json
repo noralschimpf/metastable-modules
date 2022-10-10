@@ -12,5 +12,16 @@
   "sourceUrl": "",
   "donateUrl": "",
   "changelogUrl": "",
-  "modules": []
+  "modules": [
+    {
+      "slug": "reHarm",
+      "name": "re-Harm",
+      "description": "shuffle and re-harmonize the pitch CVs of a polyphonic cable",
+      "tags": [
+        "polyphonic",
+        "random",
+        "controller"
+      ]
+    }
+  ]
 }
